@@ -34,9 +34,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenbakhoa-sacly&show_icons=true&locale=en&layout=compact" alt="nguyenbakhoa-sacly"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nguyenbakhoa-sacly&show_icons=true&locale=en" alt="nguyenbakhoa-sacly" />
+<!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nguyenbakhoa-sacly&show_icons=true&locale=en" alt="nguyenbakhoa-sacly" /> -->
   <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenbakhoa-sacly&" alt="nguyenbakhoa-sacly" />
+<!--   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenbakhoa-sacly&" alt="nguyenbakhoa-sacly" /> -->
 </div>
 
 <br/><br/>
