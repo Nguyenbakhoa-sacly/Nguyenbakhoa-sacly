@@ -12,7 +12,7 @@
     
  🌱 I’m currently learning **ReactJS, NodeJS**
  
-📫 How to reach me **khoab2306 @gmail.com**
+📫 How to reach me **khoab2306@gmail.com**
 
 ⚡ Fun fact **I am funny**
 
