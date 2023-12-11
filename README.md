@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/5eKX.gif)]
+[MasterHead](https://i.gifer.com/5eKX.gif)
 <h1 align="center">Xin chào 👋, tôi là Nguyễn Bá Khoa</h1>
 <h3 align="center">Một nhà phát triển frontend đam mê đến từ Việt Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
