@@ -37,7 +37,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenbakhoa-sacly&show_icons=true&locale=en&layout=compact" alt="nguyenbakhoa-sacly"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenbakhoa-sacly&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nguyenbakhoa-sacly"/>
 <!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nguyenbakhoa-sacly&show_icons=true&locale=en" alt="nguyenbakhoa-sacly" /> -->
   <br/>
 <!--   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenbakhoa-sacly&" alt="nguyenbakhoa-sacly" /> -->
@@ -45,6 +45,6 @@
 
 <br/><br/>
 
-<hr/>
+![divider](./images/divider.gif)
 
 <br/>
