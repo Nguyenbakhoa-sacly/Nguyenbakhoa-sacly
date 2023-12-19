@@ -4,11 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ba+Khoa!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from VietNam</h3>
+<h3 align="center">🔥 A passionate software developer from VietNam <img src="./images/profile_dev.svg" width="30px"> <img src="./images/dog_1.gif" width="50" /></h3>
 
 <br/>
 
+<img align="right" width=245px height=180px alt="side_sticker" src="./images/Developer.gif" />
+
 <div align="left">
+    
+### <img src="./images/stats.gif" width="30" height="30"> ***About Me*** 
     
  🌱 I’m currently learning **ReactJS, NodeJS, Python**
  
