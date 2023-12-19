@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width=245px height=180px alt="side_sticker" src="./images/Developer.gif" />
+<img align="right" width=245px height=180px alt="side_sticker" src="./images/Designer.gif" />
 
 <div align="left">
     
