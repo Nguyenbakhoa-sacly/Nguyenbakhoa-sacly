@@ -16,7 +16,7 @@
 
 ⚡ Fun fact **I am funny**
 
-💬 Ask me about **Node.js, React, Firebase...**
+💬 Ask me about **Node.js, React, MongoDB...**
 
  </div>
 
