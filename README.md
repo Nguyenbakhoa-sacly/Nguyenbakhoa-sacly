@@ -18,7 +18,7 @@
  
 📫 How to reach me **khoab2306@gmail.com**
 
-⚡ Fun fact **I am funny**
+⚡ Fun fact **I am always trying to learn new things.**
 
 💬 Ask me about **Node.js, React, MongoDB...**
 
