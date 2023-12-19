@@ -24,7 +24,7 @@
 
  </div>
  
- <hr/>
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -32,7 +32,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,java,mysql" /><br>
 </div>
-<hr/>
+
+<br/>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
