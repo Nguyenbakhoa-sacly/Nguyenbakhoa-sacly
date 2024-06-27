@@ -14,7 +14,7 @@
     
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me*** 
     
- 🌱 I’m currently learning **ReactJS, NodeJS, Python**
+ 🌱 I’m currently learning **ReactJS, NodeJS, C/C++**
  
 📫 How to reach me **khoab2306@gmail.com**
 
